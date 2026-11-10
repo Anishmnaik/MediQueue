@@ -42,7 +42,6 @@ The system allows hospital staff to generate tokens for patients and manage the 
 - Express.js
 - MongoDB
 - Mongoose
-- JWT Authentication (if enabled in your implementation)
 
 **Development Tools**
 - Visual Studio Code
